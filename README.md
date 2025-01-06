@@ -1,5 +1,35 @@
-Project Ideas - https://docs.google.com/document/d/1nLy3kNSy0zRkK2xyCwNjxWLQ7_jPvwskKQb21C6hSpY/edit?usp=sharing
+# Vino-Vision
 
-Dataset for the project - https://drive.google.com/file/d/1j-kYzlsQ4P5wqKKN7kG6DsWy8j7RoH8N/view?usp=sharing (sharing the google drive link since its >25MB)
+## Overview
+**Vino-Vision** is a comprehensive project designed to leverage advanced data analytics and machine learning to revolutionize the wine industry. By analyzing and predicting key metrics, it provides actionable insights that help wine enthusiasts, producers, and distributors make data-driven decisions.
 
-Pickle file for Text Classification Model pipeline - https://drive.google.com/file/d/1YW9fu8sLI1ci_sNCS2WVieq_r7CRESfo/view?usp=sharing
+## Features
+- **Data Analysis**: In-depth exploration and visualization of wine-related datasets.
+- **Prediction Models**: Machine learning models to predict wine quality and other metrics.
+- **Interactive Visualizations**: Tools to help users understand trends and insights in wine production and reviews.
+
+## Business Use
+### For Producers
+- Predict wine quality based on chemical properties.
+- Optimize production processes by understanding quality trends.
+
+### For Distributors
+- Identify high-quality wines to stock.
+- Predict customer preferences based on data trends.
+
+### For Enthusiasts
+- Learn about the factors that influence wine quality.
+- Discover trends and patterns in wine ratings and reviews.
+
+## Tools and Technologies
+- **Programming Language**: Python
+- **Libraries**:
+  - Data Analysis: Pandas, NumPy
+  - Visualization: Matplotlib, Seaborn, Plotly
+  - Machine Learning: Scikit-learn, TensorFlow (if applicable)
+- **Development Environment**: Jupyter Notebook
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Jaya2404/Vino-Vision.git
